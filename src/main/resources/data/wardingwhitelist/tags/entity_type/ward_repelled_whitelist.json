@@ -1,5 +1,7 @@
 {
   "values": [
-      "minecraft:slime"
+      "minecraft:slime",
+      "minecraft:glow_squid",
+      "minecraft:bat"
   ]
 }
